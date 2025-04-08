@@ -1,0 +1,16 @@
+aaayafuj/
+├── README.md
+├── LICENSE
+├── install.sh
+├── src/
+│   ├── main.py
+│   ├── utils.py
+│   ├── network_tools.py
+│   └── config.py
+├── bin/
+│   └── aaayafuj_main.sh
+├── tests/
+│   ├── test_main.py
+│   └── test_utils.py
+└── docs/
+    └── user_guide.md
